@@ -23,7 +23,7 @@ Este é um projeto simples de **relógio analógico** utilizando **HTML**, **CSS
 1. Clone o repositório para o seu computador:
 
     ```bash
-    git clone https://github.com/seu-usuario/relogio-analogico.git
+    git clone https://github.com/DanielDimas2002/relogio-analogico.git
     ```
 
 2. Entre no diretório do projeto:
